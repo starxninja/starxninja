@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Mukhtiar</h1>
-<h3 align="center">Software Engineer from Pakistan</h3>
+<h3 align="center">Software Engineer|MERN Stack Developer | Kubernetes & Docker | AI/ML with TensorFlow | Full-Stack Innovator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starxninja&label=Profile%20views&color=0e75b6&style=flat" alt="starxninja" /> </p>
 
